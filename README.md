@@ -21,10 +21,10 @@ To address these challenges, we combine the strengths of **Masked Autoencoder (M
   - *Domain State Learning* models inter-domain differences through learnable state sequences for SD and TD, mitigating task shift and enabling direct inference usage.  
   - *Style-Guided Segmentation* leverages TD style prompts to guide SD segmentation training, enhancing SAM’s adaptability to multi-spectral cross-domain tasks.
 
-Extensive experiments on three multi-temporal MSI datasets demonstrate the superiority of DSAnet compared with state-of-the-art cross-domain and SAM-based methods.
+Extensive experiments on two multi-temporal MSI datasets demonstrate the superiority of DSAnet compared with state-of-the-art cross-domain and SAM-based methods.
 
 <p align="center">
-  <img src="./Frame.png" width="80%">
+  <img src="./Frame.jpg" width="80%">
 </p>
 
 ---
