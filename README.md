@@ -15,7 +15,7 @@ https://ieeexplore.ieee.org/document/11089978/
 
 ---
 
-## Abstract
+## 🧩 Abstract
 
 **Segment Anything (SAM)**, as a prompt-based image segmentation foundation model, demonstrates strong task versatility and domain generalization capabilities, providing a new direction for cross-scene segmentation.  
 However, SAM still faces challenges in **multi-spectral cross-domain segmentation**, mainly reflected in:
