@@ -1,8 +1,8 @@
 # Domain Information Mining and State-Guided Adaptation Network (DSAnet)
 
 > **Domain Information Mining and State-Guided Adaptation Network for Multispectral Image Segmentation**  
-> *Boyu Zhao, Mengmeng Zhang, Wei Li, Yunhao Gao, Junjie Wang*  
-> IEEE Transactions on Cybernetics (TCYB), 2025
+> *Boyu Zhao, Mengmeng Zhang, Wei Li*, Yunhao Gao, Junjie Wang*  
+> IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025
 
 ---
 
