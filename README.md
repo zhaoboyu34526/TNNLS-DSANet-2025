@@ -4,6 +4,15 @@
 > *Boyu Zhao, Mengmeng Zhang, Wei Li*, Yunhao Gao, Junjie Wang*  
 > IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025
 https://ieeexplore.ieee.org/document/11089978/
+
+---
+
+## 🧠 Framework Overview
+
+<p align="center">
+  <img src="./Frame.jpg" width="80%">
+</p>
+
 ---
 
 ## Abstract
@@ -24,12 +33,6 @@ To address these challenges, we combine the strengths of **Masked Autoencoder (M
 Extensive experiments on two multi-temporal MSI datasets demonstrate the superiority of DSAnet compared with state-of-the-art cross-domain and SAM-based methods.
 
 ---
-
-## 🧠 Framework Overview
-
-<p align="center">
-  <img src="./Frame.jpg" width="80%">
-</p>
 
 ## ⚙️ Environment Setup
 
